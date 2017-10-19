@@ -12,4 +12,6 @@ composer install
 composer run test
 ```
 
+[![Build Status](https://travis-ci.org/cumuru/wi-38435.svg?branch=master)](https://travis-ci.org/cumuru/wi-38435)
+
 [1]: https://youtrack.jetbrains.com/issue/WI-38435.  

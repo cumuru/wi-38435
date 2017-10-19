@@ -1,7 +1,7 @@
 ## WI-38435
 
 This repository aims to make a bug in PhpStorm IDE
-reproducable. The concerned bug is (WI-38435)[1].
+reproducable. The concerned bug is [WI-38435](https://youtrack.jetbrains.com/issue/WI-38435).
 
 How to use:
 
@@ -13,5 +13,3 @@ composer run test
 ```
 
 [![Build Status](https://travis-ci.org/cumuru/wi-38435.svg?branch=master)](https://travis-ci.org/cumuru/wi-38435)
-
-[1]: https://youtrack.jetbrains.com/issue/WI-38435.  

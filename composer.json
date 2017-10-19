@@ -1,0 +1,23 @@
+{
+  "name": "test/testpackage",
+  "description": "This package should help with a PhpStorm bug",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Vendor\\Package\\": "src/"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^5.6"
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  }
+}
